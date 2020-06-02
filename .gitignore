@@ -1,3 +1,5 @@
 *.sublime-project
 *.sublime-workspace
 backitup.sh
+secure_backup.sh
+clean_repo.sh
